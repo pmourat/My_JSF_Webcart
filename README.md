@@ -5,6 +5,7 @@ Cart displays total price and allows quantity changes. When total price exceeds 
 Shipping costs are calculated via a fixed 5$ per item, multiplied by each items weight factor(0-1 range).
 
 Sample images
+
 Products
 ![alt text](https://github.com/pmourat/My_JSF_Webcart/blob/master/webcart/src/main/resources/images/Products.png?raw=true)
 
